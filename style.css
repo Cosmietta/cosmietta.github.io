@@ -1,6 +1,6 @@
 
 header{
-    background-color: hsl(0, 0%, 15%);
+    background-color: rgb(38, 38, 38);
     padding-block: 1px;
     text-align: center;
     font-size: absolute;
@@ -25,26 +25,32 @@ body{
     color: hsl(0, 0%, 80%)
 }
 #text1{
-    font-family: lucida console;
-    color: hsl(23, 49%, 46%);
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+      "slnt" 0;
+    color: hsl(0, 0%, 79%);
 }
 #text2{
-    font-family: lucida console;
+    font-family: "Inter", sans-serif;
     color: hsl(23, 49%, 46%);  
 }
 #text3{
-    font-family: lucida console;
+    font-family: "Inter", sans-serif;
     color: hsl(23, 49%, 46%);
 }
 .text{
-    background-color: hsla(0, 0%, 15%, 0.911);
+    background-color: rgba(38, 38, 38, 0.911);
     border: 2px solid;
     border-radius: 10px;
     border-color: hsl(0, 0%, 0%);
-    font-size: medium;
+    font-size: large;
     width: auto;
     height: auto;
     margin-top: 80px;
+    text-align: center;
 }
 .endingtext{
     font-size: medium;
@@ -61,7 +67,8 @@ body{
     100% { opacity: 0.9; } /* Fully visible again */
 }
 #endt1{
-    font-family: lucida console;
+    font-family: "Inter", sans-serif;
+    font-size: large;
     color: hsl(0, 0%, 100%);
     text-align: center;
     text-shadow: 2px 4px 3px hsl(180, 100%, 50%), -2px -4px 3px hsl(130, 100%, 50%);
