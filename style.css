@@ -1,0 +1,85 @@
+
+header{
+    background-color: hsl(0, 0%, 15%);
+    padding-block: 1px;
+    text-align: center;
+    font-size: absolute;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: hsl(216, 52%, 25%);
+    border-width: 3px;
+    text-shadow: -3px -5px 5px;
+    margin-top: 30px;
+}
+
+body{
+    
+    background-image: url(images/background3.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#welcome{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: hsl(0, 0%, 80%)
+}
+#text1{
+    font-family: lucida console;
+    color: hsl(23, 49%, 46%);
+}
+#text2{
+    font-family: lucida console;
+    color: hsl(23, 49%, 46%);  
+}
+#text3{
+    font-family: lucida console;
+    color: hsl(23, 49%, 46%);
+}
+.text{
+    background-color: hsla(0, 0%, 15%, 0.911);
+    border: 2px solid;
+    border-radius: 10px;
+    border-color: hsl(0, 0%, 0%);
+    font-size: medium;
+    width: auto;
+    height: auto;
+    margin-top: 80px;
+}
+.endingtext{
+    font-size: medium;
+    margin-top: 80px;
+    background-color: rgba(137, 43, 226, 0.993);
+    border-radius: 20px;
+    border: 2px groove;
+    border-color: aqua;
+    animation: blink 2s infinite; /* Apply the blink animation */
+}
+@keyframes blink {
+    0% { opacity: 0.9; } /* Start with fully visible */
+    50% { opacity: 0.4; } /* Halfway, become invisible */
+    100% { opacity: 0.9; } /* Fully visible again */
+}
+#endt1{
+    font-family: lucida console;
+    color: hsl(0, 0%, 100%);
+    text-align: center;
+    text-shadow: 2px 4px 3px hsl(180, 100%, 50%), -2px -4px 3px hsl(130, 100%, 50%);
+}
+.icons{
+
+    font-size: 15px;;
+    text-align: center;
+    margin-top: 120px;
+}
+.icons a{
+    text-decoration: none;
+    margin: 20px;
+}
+h3{
+    text-align: center;
+}
+
+
+
+
