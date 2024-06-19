@@ -1,6 +1,20 @@
 div {
+    margin: auto;
     height: 200px;
     width: 200px;
     border: 1px solid #333;
     transition: all 0.4s ease;
+    background-color: white
+}
+
+header {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+body {
+    background-color: antiquewhite;
+}
+input {
+    margin: 30%;
+    margin-top: 20px;
 }
