@@ -1,4 +1,4 @@
-div {
+.box {
     margin: auto;
     height: 200px;
     width: 200px;
@@ -14,7 +14,9 @@ header {
 body {
     background-color: antiquewhite;
 }
-input {
-    margin: 30%;
+.input {
     margin-top: 20px;
+}
+.text {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
