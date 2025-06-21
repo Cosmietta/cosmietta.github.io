@@ -84,7 +84,7 @@ sample_header = [
 
 # Linkita's profile
 [extra.profiles.cosmietta]
-avatar_url = "icons/"
+avatar_url = "icons/avatar.png"
 avatar_invert = false
 # avatar_alt = "Default alt text"
  name = "Cosmietta"
