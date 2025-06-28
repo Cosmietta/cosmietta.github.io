@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://cosmietta.github.io"
+base_url = "https://cosmietta.is-a.dev"
 
 # Theme
 theme = "linkita"
