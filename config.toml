@@ -34,6 +34,12 @@ generate_feeds = true
 # e.g. ["rss.xml"]
 feed_filenames = ["atom.xml"]
 
+taxonomies = [
+  { name = "tags", feed = true, paginate_by = 5 },
+  { name = "authors", feed = true, paginate_by = 5 },
+]
+
+
 # Build a search index from the pages and section content
 # for "default_language".
 # build_search_index = false
