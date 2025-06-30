@@ -99,8 +99,8 @@ social = [
   { name = "instagram", url = "https://www.instagram.com/rizqilayl" },
   { name = "github", url = "https://github.com/Cosmietta" },
   { name = "email", url = "mailto:rizqilayl7@gmail.com" },
-  
-  
+  { name = "steam", url = "https://steamcommunity.com/id/Cosmietta" },
+   
 ]
 
 [extra.footer]
