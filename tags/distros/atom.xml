@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Cosmietta - distros</title>
+    <subtitle>Personal Website</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://cosmietta.is-a.dev/tags/distros/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://cosmietta.is-a.dev"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-06-30T00:00:00+00:00</updated>
+    <id>https://cosmietta.is-a.dev/tags/distros/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Thoughts on Linux Fedora</title>
+        <published>2025-06-30T00:00:00+00:00</published>
+        <updated>2025-06-30T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              cosmietta
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://cosmietta.is-a.dev/blog/linux-fedora/"/>
+        <id>https://cosmietta.is-a.dev/blog/linux-fedora/</id>
+        
+        <content type="html" xml:base="https://cosmietta.is-a.dev/blog/linux-fedora/"> &lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;&lt;h2 id=&quot;what-is-fedora&quot;&gt;What is Fedora?&lt;&#x2F;h2&gt;
+&lt;p&gt;Fedora is a Linux distribution developed by the Fedora Project, which is sponsored primarily by Red Hat (a subsidiary of IBM). It’s a free and open-source operating system known for being cutting-edge, stable, and a testing ground for new technologies that often make their way into Red Hat Enterprise Linux (RHEL).&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;reasons-why-you-should-use-linux&quot;&gt;Reasons Why You Should Use Linux.&lt;&#x2F;h2&gt;
+&lt;p&gt;It&#x27;s one of the most user friendly Linux distro (that&#x27;s from what I heard lol). it&#x27;s 100% free to use.&lt;br &#x2F;&gt;
+The reason I use Linux is that my system was really outdated, it&#x27;s no longer supported by Windows 11, and Windows 10 will not receive any updates in Q3 2025. So I asked my friend to recommend me a Linux distro, and Fedora was choosen!&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;images&#x2F;systemInfo.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;I kid you not, it&#x27;s 100000000% better than Windows Microsoft bullshit, the Desktop Environmental (KDE) I use is the default GNOME Fedora Workstation variant (there are more variants according to your needs.), it looks so clean, smooth, and minimalist. And damn this is another reason i like about Linux is that it&#x27;s fucking open source you can modify it as much as you like to be, and yes it&#x27;s fuck ton safer than windows that steal your data, you&#x27;re even fucking immortal with Linux cause 99% of virus are made for Windows. With Linux you can even run it on a toaster, it&#x27;s truly life changing.&lt;&#x2F;p&gt;
+&lt;p&gt;I feel more focused and energized whenever I use Linux to work on my project, I love Linux more than myself.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;it-s-2025-not-2013-dawg&quot;&gt;It&#x27;s 2025 not 2013 dawg.&lt;&#x2F;h2&gt;
+&lt;p&gt;BUT BROOOO!!! LINUX IS COMPLICATED AND NO GAME SUPPORT!!1!11!&lt;br &#x2F;&gt;
+Sybau man, good thing there&#x27;s Steamdeck (Steamdeck&#x27;s OS uses Linux), because of that so many games are now supported with Linux because of Steam, so you don&#x27;t need to worry about no games on Linux anymore, I might try another distros which is &lt;strong&gt;Arch&lt;&#x2F;strong&gt;.&lt;&#x2F;p&gt;
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion.&lt;&#x2F;h2&gt;
+&lt;p&gt;So, the conclusion is that Linux is not as complicated as you think, even a regular user can operate a Linux, it is 10x more safe, better, and cooler than Windows.&lt;br &#x2F;&gt;
+&lt;strong&gt;Linux Is The Future.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;images&#x2F;desktop.png&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
